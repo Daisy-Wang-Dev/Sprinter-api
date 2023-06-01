@@ -14,16 +14,14 @@
     "Todos": [
       {
         "id": "5eb3613f-fd89-4df5-b34c-2a69920c6bc2",
-        "title": "Installation",
-        "items": ["axios", "express", "react-router-dom"]
+        "item": "Install axios"
       },
       {
         "id": "1426455b-d04d-494a-be35-9febb5c91e4b",
-        "title": "Components",
-        "items": ["header", "nav", "cards"]
+        "item":"Components: header"
       }
     ],
-    "Test": [
+    "Tests": [
       {
         "id": "522eb691-24b0-4b3d-b014-daff19f89eb5",
         "item": "ClickHandler for header"
